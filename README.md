@@ -1,2 +1,1 @@
-# Project-Portfolio
-Please check README
+Hello and welcome to my project portfolio. This holds a combination of my Grad projects as well as my personal projects, code mix of both R and Python. Please feel free to look around, and contact me with any questions through my LinkedIn: www.linkedin.com/in/jordan-gropper-413640155
